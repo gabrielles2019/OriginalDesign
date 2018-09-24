@@ -30,6 +30,7 @@ Samples of Student Work
 [Kristi](https://kristilee1171.github.io/OriginalDesign/)   
 [Andy](https://anwu1.github.io/SampleAssignment/)   
 [Frida](https://frida-calvo.github.io/OriginalDesign/)   
+[Marvin](https://malee31.github.io/OriginalDesign/)   
 [Rowan](https://rowanmckereghan.github.io/OriginalDesign/)   
 [Annie](https://anli32.github.io/OriginalDesign/)   
 [David](https://dachen18.github.io/OriginalDesign/)   
