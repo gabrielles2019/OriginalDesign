@@ -1,7 +1,7 @@
 Original Design
 ===============
 
-In this assignment you will create a design of your own choosing. You may find the PowerPoint slides 1 to 166 of the [apjavaProcessing](https://docs.google.com/presentation/d/1sqbareaFmF9fMcp0XOl3hRO6hAlrU5WIaj4V-Kd3eDI/edit?usp=sharing) slide presentation helpful. Your program should use a variety of the [Processing graphics functions](https://processing.org/reference/). You will also define four functions:  
+In this assignment you will create a design of your own choosing. You may find the [Java Intro and Processing](https://docs.google.com/presentation/d/19uV9xpszpVOzDvGXO79pEO7EgxoyLRRRAEvME01Mb3U/edit?usp=sharing) slide presentation helpful. Your program should use a variety of the [Processing graphics functions](https://processing.org/reference/). You will also define four functions:  
 `void setup()`  
 `void draw()`  
 and at least two of your own. Scroll down to see links to samples of other students submissions for this assignment. Have fun and be creative! Your design doesn't have to look like anyone else's.
