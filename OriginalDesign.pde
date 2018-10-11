@@ -1,17 +1,12 @@
-void draw() {
-  background(126);
-  if (circle == true) {
-  fill(255,0,0);
-  ellipse(mouseX, mouseY, 33, 33);   // Top circle
-  ellipse(mouseX/2, mouseY*2, 33, 33); // Middle circle
-  ellipse(mouseX*2, mouseY/2, 33, 33); // Bottom circle
-  }
-} 
-
-void mousePressed() {
-    circle = true;
+void setup() {
+  size(900,600);
 }
 
-void mouseReleased() {
-  circle = false;
+void draw() {
+  background(80,165,215);
+    fill(99,141,182);
+    ellipse(mouseX, mouseY, 300, 120);   // bodey
+    fill(166,186,206);
+    ellipse(mouseX+140, mouseY+10, 70, 33); // nose
+    quad(mouseX-200, mouseY, mouseY, 33,mouseX,mouseY,mouseY,mouseX); // Bottom circle
 }
