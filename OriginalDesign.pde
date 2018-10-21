@@ -10,7 +10,11 @@ void draw() {
   background(80,165,215); 
   if (keyPressed == true) {
     background(80,0,0);
-    ellipse(550,50,300,300);  
+    ellipse(550,50,300,300);
+    ellipse(490,80,10,10);
+    ellipse(530,80,10,10);
+    line(470, 50, 500, 60);
+    line(520, 60, 550, 50);
     x++; 
   } 
   line(50, x - 600, 50, 600);
